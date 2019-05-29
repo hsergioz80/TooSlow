@@ -1,0 +1,24 @@
+// File: resources.rc
+// Author: 
+// Project: CS215 Project 3 Fall 2016
+// Description of file contents:
+
+BACKGROUND_BMP 	BITMAP	Background1.bmp
+
+WALL_BMP	BITMAP	Wall.bmp
+
+PATH_BMP	BITMAP	Path.bmp
+
+COPL_BMP	BITMAP	CopLeft.bmp
+COPR_BMP	BITMAP	CopRight.bmp
+COPU_BMP	BITMAP	CopUp.bmp
+COPD_BMP	BITMAP	CopDown.bmp
+
+GOAL0_BMP	BITMAP	Charger.bmp
+GOAL1_BMP	BITMAP	bmw.bmp
+GOAL2_BMP	BITMAP	porsche.bmp	
+GOAL3_BMP	BITMAP	Viper.bmp
+GOAL4_BMP	BITMAP	skyline.bmp
+
+SOUND_WAV	WAVE	Cops_theme_song.wav
+
